@@ -6,7 +6,8 @@ numba
 einops
 tqdm
 omegaconf>=2.3.0
-torch>=2.1.0
+torch==2.2.0
+torchaudio==2.2.0
 python-dotenv
 requests
 soundfile
